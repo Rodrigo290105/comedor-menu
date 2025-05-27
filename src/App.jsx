@@ -227,7 +227,7 @@ export default function App() {
 
   // ========== RECETAS LOGIC (igual que antes) ==========
   const handleModificarIngrediente = (index, field, value) => {
-    const receta = recetaEditando !== null ? { ...nuevaReceta } : { ...nuevaReceta };
+    const receta = { ...nuevaReceta };
     receta.ingredientes[index][field] = field === "cantidad" ? Number(value) : value;
     setNuevaReceta(receta);
   };
@@ -405,3 +405,42 @@ export default function App() {
                 placeholder="Unidad"
                 value={ing.unidad}
                 onChange={(e) => handleModificarIngrediente(i, "unidad", e.target.value)}
+                style={{ marginRight: 5, borderRadius: 5, padding: 4 }}
+              />
+              <input
+                type="number"
+                placeholder="Cantidad"
+                value={ing.cantidad}
+                onChange={(e) => handleModificarIngrediente(i, "cantidad", e.target.value)}
+                style={{ marginRight: 5, borderRadius: 5, padding: 4 }}
+              />
+            </div>
+          ))}
+          <button onClick={handleAgregarIngrediente} style={{ marginTop: 8, background: "#2051bc", color: "#fff", borderRadius: 7, padding: "7px 18px" }}>➕ Añadir ingrediente</button>
+          <button onClick={handleGuardarReceta} style={{ marginLeft: 10, background: "#238c32", color: "#fff", borderRadius: 8, padding: "7px 22px" }}>💾 Guardar</button>
+
+          <h2 style={{ marginTop: 40 }}>📚 Recetas guardadas</h2>
+          <ul>
+            {recetas.map((r, i) => (
+              <li key={i}>
+                {r.nombre} ({r.tipo})
+                <button onClick={() => editarReceta(i)} style={{ marginLeft: 10 }}>📝 Editar</button>
+                <button onClick={() => eliminarReceta(r.nombre)} style={{ marginLeft: 5 }}>🗑️ Eliminar</button>
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
+
+      {/* --- PESTAÑA REGISTRO MENSUAL --- */}
+      {tab === "registro" && (
+        <div>
+          {/* Aquí iría el código de registro mensual (tabla y botones), adaptalo según lo necesites */}
+          <button onClick={descargarExcelRegistro} style={{ marginTop: 20, background: "#2072bc", color: "#fff", borderRadius: 8, padding: "7px 22px" }}>
+            ⬇️ Descargar Registro Excel
+          </button>
+        </div>
+      )}
+    </div>
+  );
+}
