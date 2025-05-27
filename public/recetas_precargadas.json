@@ -1,0 +1,1862 @@
+[
+  {
+    "nombre": "Aroz con leche",
+    "tipo": "postre",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Leche",
+        "unidad": "ml",
+        "cantidad": 150.0
+      },
+      {
+        "ingrediente": "Arroz",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Azúcar",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Yemas",
+        "unidad": "g",
+        "cantidad": 7.5
+      },
+      {
+        "ingrediente": "Vainilla",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Canela",
+        "unidad": "g",
+        "cantidad": 0.25
+      }
+    ]
+  },
+  {
+    "nombre": "Arroz",
+    "tipo": "acompañamiento",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Arroz",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      }
+    ]
+  },
+  {
+    "nombre": "Arroz amarillo",
+    "tipo": "acompañamiento",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Arroz",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Ajo",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Curcuma",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      }
+    ]
+  },
+  {
+    "nombre": "Arroz con vegetales salteados",
+    "tipo": "acompañamiento",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Arroz",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Espinaca",
+        "unidad": "g",
+        "cantidad": 60.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Queso rallado",
+        "unidad": "g",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Ajo",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      }
+    ]
+  },
+  {
+    "nombre": "Banana",
+    "tipo": "postre",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Banana",
+        "unidad": "unidad",
+        "cantidad": 1.0
+      }
+    ]
+  },
+  {
+    "nombre": "Bocaditos de pollo",
+    "tipo": "acompañamiento",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Avena",
+        "unidad": "g",
+        "cantidad": 20.0
+      }
+    ]
+  },
+  {
+    "nombre": "Bocaditos de pollo",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Suprema",
+        "unidad": "g",
+        "cantidad": 80.0
+      },
+      {
+        "ingrediente": "Huevo",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Hierbas",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      }
+    ]
+  },
+  {
+    "nombre": "Budin de pescado",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Pescado",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Zanahaoria",
+        "unidad": "g",
+        "cantidad": 30.0
+      },
+      {
+        "ingrediente": "cebolla",
+        "unidad": "g",
+        "cantidad": 30.0
+      },
+      {
+        "ingrediente": "Ajo",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Pulpa de tomate",
+        "unidad": "ml",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Huevo",
+        "unidad": "g",
+        "cantidad": 23.0
+      },
+      {
+        "ingrediente": "Pan rallado",
+        "unidad": "g",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Queso Rallado",
+        "unidad": "g",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Almidon de maiz",
+        "unidad": "g",
+        "cantidad": 2.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 10.0
+      }
+    ]
+  },
+  {
+    "nombre": "Budín de harina de maíz",
+    "tipo": "postre",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Leche",
+        "unidad": "ml",
+        "cantidad": 125.0
+      },
+      {
+        "ingrediente": "Harina de maíz",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Azúcar",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Huevo",
+        "unidad": "g",
+        "cantidad": 11.0
+      },
+      {
+        "ingrediente": "Vainilla",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Azúcar",
+        "unidad": "g",
+        "cantidad": 12.0
+      }
+    ]
+  },
+  {
+    "nombre": "Budín de zapallo y coco",
+    "tipo": "postre",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Zapallo cabutiá",
+        "unidad": "g",
+        "cantidad": 85.0
+      },
+      {
+        "ingrediente": "Leche",
+        "unidad": "ml",
+        "cantidad": 3.0
+      },
+      {
+        "ingrediente": "Almidón de maiz",
+        "unidad": "g",
+        "cantidad": 3.0
+      },
+      {
+        "ingrediente": "Azúcar",
+        "unidad": "g",
+        "cantidad": 12.0
+      },
+      {
+        "ingrediente": "Coco rallado",
+        "unidad": "g",
+        "cantidad": 6.0
+      },
+      {
+        "ingrediente": "Vainilla",
+        "unidad": "g",
+        "cantidad": 0.4
+      }
+    ]
+  },
+  {
+    "nombre": "Carbonada Criolla",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Carne en cubos",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Fideos",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Zapallo",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Choclo",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Arvejas",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Morrón",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "pulpa de Tomate",
+        "unidad": "ml",
+        "cantidad": 30.0
+      },
+      {
+        "ingrediente": "Ajo",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Perejil ",
+        "unidad": "g",
+        "cantidad": 2.0
+      }
+    ]
+  },
+  {
+    "nombre": "Carne a la Portuguesa",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Carne entera",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Morrón",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Arvejas",
+        "unidad": "g",
+        "cantidad": 25.0
+      },
+      {
+        "ingrediente": "Pulpa de tomate",
+        "unidad": "ml",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Ajo",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Perejil ",
+        "unidad": "g",
+        "cantidad": 1.0
+      }
+    ]
+  },
+  {
+    "nombre": "Cazuela de lentejas",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Carne picada",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Lentejas",
+        "unidad": "g",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Arroz",
+        "unidad": "g",
+        "cantidad": 30.0
+      },
+      {
+        "ingrediente": "Pulpa de tomate",
+        "unidad": "ml",
+        "cantidad": 30.0
+      },
+      {
+        "ingrediente": "Zapallo",
+        "unidad": "g",
+        "cantidad": 60.0
+      },
+      {
+        "ingrediente": "Boniato",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Papa",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Morrón",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Ajo",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Apio",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 10.0
+      }
+    ]
+  },
+  {
+    "nombre": "Chop Suey de Cerdo",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Carne de cerdo",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "cebolla",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Morrón",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Zapallito",
+        "unidad": "g",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Berenjena",
+        "unidad": "g",
+        "cantidad": 25.0
+      },
+      {
+        "ingrediente": "Repollo",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Ajo",
+        "unidad": "g",
+        "cantidad": 2.0
+      },
+      {
+        "ingrediente": "Tomillo",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      }
+    ]
+  },
+  {
+    "nombre": "Chupín de pescado y verduras",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Pescado",
+        "unidad": "g",
+        "cantidad": 60.0
+      },
+      {
+        "ingrediente": "Papa",
+        "unidad": "g",
+        "cantidad": 26.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Morrón",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "pulpa de Tomate",
+        "unidad": "ml",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Arvejas",
+        "unidad": "g",
+        "cantidad": 30.0
+      },
+      {
+        "ingrediente": "Ajo",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "g",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Perejil ",
+        "unidad": "g",
+        "cantidad": 1.5
+      }
+    ]
+  },
+  {
+    "nombre": "Ciruela",
+    "tipo": "postre",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Ciruela",
+        "unidad": "unidad",
+        "cantidad": 1.0
+      }
+    ]
+  },
+  {
+    "nombre": "Crema de naranja",
+    "tipo": "postre",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Leche",
+        "unidad": "ml",
+        "cantidad": 100.0
+      },
+      {
+        "ingrediente": "Almidon de maiz",
+        "unidad": "g",
+        "cantidad": 9.0
+      },
+      {
+        "ingrediente": "Azúcar",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Huevo",
+        "unidad": "g",
+        "cantidad": 11.0
+      },
+      {
+        "ingrediente": "Naranja",
+        "unidad": "g",
+        "cantidad": 50.0
+      }
+    ]
+  },
+  {
+    "nombre": "Crema de vainilla",
+    "tipo": "postre",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Leche",
+        "unidad": "ml",
+        "cantidad": 150.0
+      },
+      {
+        "ingrediente": "Almidon de maíz",
+        "unidad": "g",
+        "cantidad": 9.0
+      },
+      {
+        "ingrediente": "Azúcar",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Vainilla",
+        "unidad": "g",
+        "cantidad": 0.5
+      }
+    ]
+  },
+  {
+    "nombre": "Croquetas de Atún y papas",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Papa",
+        "unidad": "g",
+        "cantidad": 160.0
+      },
+      {
+        "ingrediente": "Atún",
+        "unidad": "g",
+        "cantidad": 60.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Queso Rallado",
+        "unidad": "g",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Huevo",
+        "unidad": "g",
+        "cantidad": 22.0
+      },
+      {
+        "ingrediente": "Mix de verdes",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Ajo",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Polenta",
+        "unidad": "g",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "g",
+        "cantidad": 7.5
+      }
+    ]
+  },
+  {
+    "nombre": "Ensalada Completa",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Arroz",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Lentejas",
+        "unidad": "g",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Suprema de pollo",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Tomate",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Choclo",
+        "unidad": "g",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.75
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Mayonesa vegetal",
+        "unidad": "g",
+        "cantidad": 15.0
+      }
+    ]
+  },
+  {
+    "nombre": "Ensalada de leguminosas y vegetales",
+    "tipo": "acompañamiento",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Porotos manteca",
+        "unidad": "g",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 30.0
+      },
+      {
+        "ingrediente": "Tomate",
+        "unidad": "g",
+        "cantidad": 25.0
+      },
+      {
+        "ingrediente": "Repollo",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Perejil ",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Vinagre",
+        "unidad": "ml",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.25
+      }
+    ]
+  },
+  {
+    "nombre": "Ensalada de vegetales",
+    "tipo": "acompañamiento",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Vegetales",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Vinagre",
+        "unidad": "ml",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.25
+      }
+    ]
+  },
+  {
+    "nombre": "Ensalada jardinera",
+    "tipo": "acompañamiento",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Papa",
+        "unidad": "g",
+        "cantidad": 140.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Arvejas o choclo",
+        "unidad": "g",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.25
+      }
+    ]
+  },
+  {
+    "nombre": "Ensalada primavera",
+    "tipo": "acompañamiento",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Arroz",
+        "unidad": "g",
+        "cantidad": 30.0
+      },
+      {
+        "ingrediente": "Choclo",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Chaucha",
+        "unidad": "g",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.25
+      }
+    ]
+  },
+  {
+    "nombre": "Fideo",
+    "tipo": "acompañamiento",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Fideos",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      }
+    ]
+  },
+  {
+    "nombre": "Hamburgesa de pescado",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Pescado",
+        "unidad": "g",
+        "cantidad": 60.0
+      },
+      {
+        "ingrediente": "Avena",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 25.0
+      },
+      {
+        "ingrediente": "Morrón",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Huevo",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Perejil ",
+        "unidad": "g",
+        "cantidad": 1.5
+      },
+      {
+        "ingrediente": "Ajo",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.4
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 2.25
+      }
+    ]
+  },
+  {
+    "nombre": "Hortalizas asadas",
+    "tipo": "acompañamiento",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Papa",
+        "unidad": "g",
+        "cantidad": 80.0
+      },
+      {
+        "ingrediente": "Boniato",
+        "unidad": "g",
+        "cantidad": 80.0
+      },
+      {
+        "ingrediente": "Zapallo",
+        "unidad": "g",
+        "cantidad": 70.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.25
+      },
+      {
+        "ingrediente": "Hierbas frescas",
+        "unidad": "g",
+        "cantidad": 0.5
+      }
+    ]
+  },
+  {
+    "nombre": "Lasaña",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Acelga",
+        "unidad": "g",
+        "cantidad": 100.0
+      },
+      {
+        "ingrediente": "Carne Picada",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Morrón",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Ajo",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Avena",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Pimentón",
+        "unidad": "g",
+        "cantidad": 0.05
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Pulpa e tomate",
+        "unidad": "ml",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "queso rallado",
+        "unidad": "g",
+        "cantidad": 5.0
+      }
+    ]
+  },
+  {
+    "nombre": "Mandarina",
+    "tipo": "postre",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "mandarina",
+        "unidad": "unidad",
+        "cantidad": 1.0
+      }
+    ]
+  },
+  {
+    "nombre": "Manzana",
+    "tipo": "postre",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "manzana",
+        "unidad": "unidad",
+        "cantidad": 1.0
+      }
+    ]
+  },
+  {
+    "nombre": "Naranja",
+    "tipo": "postre",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "manzana",
+        "unidad": "unidad",
+        "cantidad": 1.0
+      }
+    ]
+  },
+  {
+    "nombre": "Pan de carne",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "carne picada",
+        "unidad": "g",
+        "cantidad": 60.0
+      },
+      {
+        "ingrediente": "Avena",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Huevo",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Morrón",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Perejil ",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Ajo",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      }
+    ]
+  },
+  {
+    "nombre": "Papas al natural",
+    "tipo": "acompañamiento",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Papa",
+        "unidad": "g",
+        "cantidad": 160.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.25
+      }
+    ]
+  },
+  {
+    "nombre": "Pasta con verdusalsa",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Carne Picada",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "pulpa de Tomate",
+        "unidad": "ml",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 30.0
+      },
+      {
+        "ingrediente": "Morrón",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Zapallito",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Queso Rallado",
+        "unidad": "g",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Orégano",
+        "unidad": "g",
+        "cantidad": 0.15
+      },
+      {
+        "ingrediente": "Pimentón",
+        "unidad": "g",
+        "cantidad": 0.05
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      }
+    ]
+  },
+  {
+    "nombre": "Pasta sorpresa",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Suprema de pollo",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Queso (Damba, Cuartirolo, gouda o port salut)",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Tomate",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Brócoli",
+        "unidad": "g",
+        "cantidad": 80.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Ajo",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Perejil ",
+        "unidad": "g",
+        "cantidad": 1.0
+      }
+    ]
+  },
+  {
+    "nombre": "Pastel de carne y berenjenas",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Carne picada",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Ricota",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Tomate",
+        "unidad": "g",
+        "cantidad": 30.0
+      },
+      {
+        "ingrediente": "Morrón",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Ajo",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "pulpa de Tomate",
+        "unidad": "ml",
+        "cantidad": 30.0
+      },
+      {
+        "ingrediente": "Berenjena",
+        "unidad": "g",
+        "cantidad": 70.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.75
+      },
+      {
+        "ingrediente": "albahaca",
+        "unidad": "g",
+        "cantidad": 1.5
+      },
+      {
+        "ingrediente": "Queso rallado",
+        "unidad": "g",
+        "cantidad": 5.0
+      }
+    ]
+  },
+  {
+    "nombre": "Pastel de carne y papa",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Carne Picada",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Papa",
+        "unidad": "g",
+        "cantidad": 160.0
+      },
+      {
+        "ingrediente": "Espinaca",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Morrón",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Condimentos (Pimentón, nuez moscada)",
+        "unidad": "g",
+        "cantidad": 0.05
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.75
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 7.5
+      },
+      {
+        "ingrediente": "Queso rallado",
+        "unidad": "g",
+        "cantidad": 5.0
+      }
+    ]
+  },
+  {
+    "nombre": "Pollo colorido",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Suprema de pollo",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Morrón",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Puerro",
+        "unidad": "g",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 25.0
+      },
+      {
+        "ingrediente": "Arvejas",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Choclo",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Zapallo",
+        "unidad": "g",
+        "cantidad": 35.0
+      },
+      {
+        "ingrediente": "pulpa de Tomate",
+        "unidad": "ml",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Apio",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Perejil ",
+        "unidad": "g",
+        "cantidad": 1.0
+      }
+    ]
+  },
+  {
+    "nombre": "Pollo con salsa blanca y verduras",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Suprema de pollo",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Brócoli",
+        "unidad": "g",
+        "cantidad": 60.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 40.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Puerro",
+        "unidad": "g",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Morrón rojo",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Queso rallado",
+        "unidad": "g",
+        "cantidad": 5.0
+      }
+    ]
+  },
+  {
+    "nombre": "Pure triple",
+    "tipo": "acompañamiento",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Papa",
+        "unidad": "g",
+        "cantidad": 100.0
+      },
+      {
+        "ingrediente": "Zapallo",
+        "unidad": "g",
+        "cantidad": 60.0
+      },
+      {
+        "ingrediente": "Zanahoria",
+        "unidad": "g",
+        "cantidad": 60.0
+      },
+      {
+        "ingrediente": "Leche",
+        "unidad": "ml",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.25
+      },
+      {
+        "ingrediente": "Nuez moscada",
+        "unidad": "g",
+        "cantidad": 0.1
+      }
+    ]
+  },
+  {
+    "nombre": "Puré de papas",
+    "tipo": "acompañamiento",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Papa",
+        "unidad": "g",
+        "cantidad": 160.0
+      },
+      {
+        "ingrediente": "Leche",
+        "unidad": "ml",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.25
+      },
+      {
+        "ingrediente": "Nuez moscada",
+        "unidad": "g",
+        "cantidad": 0.1
+      }
+    ]
+  },
+  {
+    "nombre": "Puré de papas instantaneo",
+    "tipo": "acompañamiento",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Papa en escama",
+        "unidad": "g",
+        "cantidad": 25.0
+      },
+      {
+        "ingrediente": "Leche",
+        "unidad": "ml",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 2.5
+      },
+      {
+        "ingrediente": "Nuez moscada",
+        "unidad": "g",
+        "cantidad": 0.1
+      }
+    ]
+  },
+  {
+    "nombre": "Torta de atún",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Atún",
+        "unidad": "g",
+        "cantidad": 60.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Morrón",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "pulpa de Tomate",
+        "unidad": "ml",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 2.5
+      },
+      {
+        "ingrediente": "Orégano",
+        "unidad": "g",
+        "cantidad": 0.15
+      }
+    ]
+  },
+  {
+    "nombre": "Torta de carne y vegetales",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Carne picada",
+        "unidad": "g",
+        "cantidad": 60.0
+      },
+      {
+        "ingrediente": "Cebolla",
+        "unidad": "g",
+        "cantidad": 10.0
+      },
+      {
+        "ingrediente": "Morrón",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Verdura de estación",
+        "unidad": "g",
+        "cantidad": 35.0
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 3.0
+      },
+      {
+        "ingrediente": "Huevo",
+        "unidad": "g",
+        "cantidad": 15.0
+      },
+      {
+        "ingrediente": "Almidon de maiz",
+        "unidad": "g",
+        "cantidad": 2.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      }
+    ]
+  },
+  {
+    "nombre": "Tortilla de papa, vegetales y pollo",
+    "tipo": "principal",
+    "editable": false,
+    "ingredientes": [
+      {
+        "ingrediente": "Papa",
+        "unidad": "g",
+        "cantidad": 160.0
+      },
+      {
+        "ingrediente": "Zapallito",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Suprema de pollo",
+        "unidad": "g",
+        "cantidad": 50.0
+      },
+      {
+        "ingrediente": "Huevo",
+        "unidad": "g",
+        "cantidad": 22.5
+      },
+      {
+        "ingrediente": "Almidon de maiz",
+        "unidad": "g",
+        "cantidad": 20.0
+      },
+      {
+        "ingrediente": "Orégano",
+        "unidad": "g",
+        "cantidad": 0.15
+      },
+      {
+        "ingrediente": "Ajo",
+        "unidad": "g",
+        "cantidad": 1.0
+      },
+      {
+        "ingrediente": "Sal",
+        "unidad": "g",
+        "cantidad": 0.5
+      },
+      {
+        "ingrediente": "Aceite",
+        "unidad": "ml",
+        "cantidad": 5.0
+      }
+    ]
+  }
+]
