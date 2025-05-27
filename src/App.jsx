@@ -404,4 +404,4 @@ export default function App() {
               <input
                 placeholder="Unidad"
                 value={ing.unidad}
-                onChange={(e) => handleModificarIngrediente(i, "unidad",
+                onChange={(e) => handleModificarIngrediente(i, "unidad", e.target.value)}
